@@ -1,7 +1,7 @@
 # distributed-playbook
 A playbook about how we work together as a distributed team.
 
-Truss has been fully distributed since sometime in late 2018. We’ve learned some things. The following practices hold for up to the 75 people we are; many might be heavy handed for a group of 20 or fewer. When a practice is associated with a specific headcount, that headcount has been included.
+The Canadian Digital Service (CDS) launched in July 2017 with the plan to hire people distributed across Canada in addition to the folks in Ottawa. In early 2018 we hired our first distributed member and have been building up our team since. As of September 2019, 30% of our team is distributed. Outside of Ottawa, we have physical workplaces in Montreal, Toronto & Waterloo and a number of folks disributed. We have adopted this handbook from Truss's [https://github.com/trussworks/Distributed-playbook] distributed playbook. We’ve tried lots of things, some things worked, some things didn't. The following practices hold for up to the 80 people we are; many might be heavy handed for a group of 20 or fewer. When a practice is associated with a specific headcount, that headcount has been included.
 
 <!-- toc -->
 
