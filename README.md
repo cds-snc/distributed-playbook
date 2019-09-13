@@ -18,12 +18,11 @@ We have adopted this handbook from Truss's [https://github.com/trussworks/Distri
 * [Resource people correctly](resource_people_correctly.md#resource-people-correctly)
   * [Working space matters](resource_people_correctly.md#working-space-matters)
   * [Quality headphones matter](resource_people_correctly.md#quality-headphones-matter)
-  * [Employee effectiveness budget](resource_people_correctly.md#employee-effectiveness-budget)
 * [Bond with each other](bond_with_each_other.md#bond-with-each-other) - How can we build understandings of each other as humans when we don’t bump into each other in the hallway or by the much lauded, proverbial water cooler? 
   * [Healthy work practices](bond_with_each_other.md#healthy-work-practices)
   * [Being Humans Together (BHT)](bond_with_each_other.md#being-humans-together-bht)
   * [Topic-based socializing](bond_with_each_other.md#topic-based-socializing)
-  * [\#Colleagues-and-coffee](bond_with_each_other.md#%23colleagues-and-coffee)
+  * [\#Donut-meet-up](bond_with_each_other.md#%23Donut-meet-up)
   * [\#Celebrations](bond_with_each_other.md#%23celebrations)
   * [\#Selfies](bond_with_each_other.md#%23selfies)
 * [See each other in person sometimes](see_each_other_in_person_sometimes.md#see-each-other-in-person-sometimes) - Face to face connection still has a certain something to it, and so we recommend still seeing other coworkers in person from time to time. 
