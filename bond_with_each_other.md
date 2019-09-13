@@ -2,7 +2,7 @@
 We’re still humans, even if we mostly only see each other in video chat. How can we build understandings of each other as humans when we don’t bump into each other in the hallway or by the much lauded, proverbial water cooler? 
 
 ## Healthy work practices
-We’ve done a lot of thinking about how to be healthy as individuals. We think a lot about what counts as work, what taking breaks looks like, how to have boundaries between work and not work, and how to distribute time over a day. We have a lot more to say in 🔒[our healthy work habits in a distributed company internal doc]. We’d recommend every organization come up with a similar doc which aligns with their work habits and expectations. (We, along with the research, stand by a 40 hour work week maximum.)
+We’ve done a lot of thinking about how to be healthy as individuals. We think a lot about what counts as work, what taking breaks looks like, how to have boundaries between work and not work, and how to distribute time over a day. We have a lot more to say in [our healthy work habits in a distributed company internal doc] (to create). We’d recommend every organization come up with a similar doc which aligns with their work habits and expectations. (We, along with the research, stand by a 40 hour work week maximum.)
 
 Applicable to groups over 50 - when habits are no longer transferable across the whole group by observation and happenstance. 
 
@@ -22,7 +22,7 @@ A certain set of people are often able to make it to BHT or to a topic-based soc
 Applicable for groups over 30, highly recommended after 50.
 
 ## \#Celebrations
-Humans are creatures who tend to like recognition of arbitrary cycles. We have a bot to remind us of folks’ birthdays and Trusselversaries. It also gets the gif party started. People opt in to have https://birthdaybot.io/ remind others of their birthdays or join date in a stand-alone channel to keep distractions contained.
+Humans are creatures who tend to like recognition of arbitrary cycles. We have a bot to remind us of folks’ birthdays. It also gets the gif party started. People opt in to have https://birthdaybot.io/ remind others of their birthdays or join date in a stand-alone channel to keep distractions contained.
 
 Applicable for groups of 15 and more, sooner if you don’t have someone around who cares to track dates.
 
