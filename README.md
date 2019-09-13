@@ -1,7 +1,9 @@
 # distributed-playbook
 A playbook about how we work together as a distributed team.
 
-The Canadian Digital Service (CDS) launched in July 2017 with the plan to hire people distributed across Canada in addition to the folks in Ottawa. In early 2018 we hired our first distributed member and have been building up our team since. As of September 2019, 30% of our team is distributed. Outside of Ottawa, we have physical workplaces in Montreal, Toronto & Waterloo and a number of folks disributed. We have adopted this handbook from Truss's [https://github.com/trussworks/Distributed-playbook] distributed playbook. We’ve tried lots of things, some things worked, some things didn't. The following practices hold for up to the 80 people we are; many might be heavy handed for a group of 20 or fewer. When a practice is associated with a specific headcount, that headcount has been included.
+The Canadian Digital Service (CDS) launched in July 2017 with the plan to hire people distributed across Canada in addition to the folks in Ottawa. In early 2018 we hired our first distributed member and have been building up our team since. As of September 2019, 30% of our team is distributed. Many of our distributed folks work from home primarily.  When a group gets to 4-6 in any given city we start to look for co-working space that might work for the group. We currently have physical space in Montreal, Toronto and Waterloo. 
+
+We have adopted this handbook from Truss's [https://github.com/trussworks/Distributed-playbook] distributed playbook. We’ve tried lots of things, some things worked and as you might expect, some things didn't. The following practices hold for up to the 80 people we are; many might be heavy handed for a group of 20 or fewer. When a practice is associated with a specific headcount, that headcount has been included.
 
 <!-- toc -->
 
@@ -24,11 +26,9 @@ The Canadian Digital Service (CDS) launched in July 2017 with the plan to hire p
   * [\#Colleagues-and-coffee](bond_with_each_other.md#%23colleagues-and-coffee)
   * [\#Celebrations](bond_with_each_other.md#%23celebrations)
   * [\#Selfies](bond_with_each_other.md#%23selfies)
-  * [Discretionary kindness budget](bond_with_each_other.md#discretionary-kindness-budget)
 * [See each other in person sometimes](see_each_other_in_person_sometimes.md#see-each-other-in-person-sometimes) - Face to face connection still has a certain something to it, and so we recommend still seeing other coworkers in person from time to time. 
-  * [See another human within 3 months of starting work at Truss](see_each_other_in_person_sometimes.md#see-another-human-within-3-months-of-starting-work-at-truss)
-  * [If you spend time together, have a coffee or meal on Truss](see_each_other_in_person_sometimes.md#if-you-spend-time-together-have-a-coffee-or-meal-on-truss)
-  * [Offsites](see_each_other_in_person_sometimes.md#offsites)
-  * [Truss Remote Experience](see_each_other_in_person_sometimes.md#truss-remote-experience)
+  * [Onboarding at CDS](Onboarding_at_CDS.md#see-onboarding-at-cds)
+  * [Annual Kickoff](Annual_Kickoff.md#see-annualkickoff)
+  * [CDS Remote Experience](CDS_Remote_Experience.md#see-CDS-remote-experience)
 
 <!-- tocstop -->
