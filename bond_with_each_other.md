@@ -2,7 +2,7 @@
 We’re still humans, even if we mostly only see each other in video chat. How can we build understandings of each other as humans when we don’t bump into each other in the hallway or by the much lauded, proverbial water cooler? 
 
 ## Healthy work practices
-We’ve done a lot of thinking about how to be healthy as individuals. We think a lot about what counts as work, what taking breaks looks like, how to have boundaries between work and not work, and how to distribute time over a day. We have a lot more to say in 🔒[our healthy work habits in a distributed company internal doc](https://docs.google.com/document/d/1u8NVVPv5lmxjrjpLEPDrBveL3avaVAPy2jPMfenGRlI/edit). We’d recommend every organization come up with a similar doc which aligns with their work habits and expectations. (We, along with the research, stand by a 40 hour work week maximum.)
+We’ve done a lot of thinking about how to be healthy as individuals. We think a lot about what counts as work, what taking breaks looks like, how to have boundaries between work and not work, and how to distribute time over a day. We have a lot more to say in 🔒[our healthy work habits in a distributed company internal doc]. We’d recommend every organization come up with a similar doc which aligns with their work habits and expectations. (We, along with the research, stand by a 40 hour work week maximum.)
 
 Applicable to groups over 50 - when habits are no longer transferable across the whole group by observation and happenstance. 
 
@@ -16,8 +16,8 @@ Whether it’s crafts, a book or movie club, or playing games together, having a
 
 Applicable to groups of 50 and above - when you will have critical mass for interest. Ok to do before, but with less frequency.
 
-## \#Colleagues-and-coffee
-A certain set of people are often able to make it to BHT or to a topic-based socializing event, and some folk see each other often because they’re on the same project or committee. To introduce some serendipity into the mix, we also have an opt-in channel that randomly pairs two (or three) Trussels together every other week. The Trussels then schedule a time together and meet to talk. We use https://www.donut.ai/
+## \#Donut-Meet-up
+A certain set of people are often able to make it to BHT or to a topic-based socializing event, and some folk see each other often because they’re on the same project or committee. To introduce some serendipity into the mix, we also have an opt-in channel that randomly pairs two (or three) Trussels together every other week. The CDSers then schedule a time together and meet to talk. We use https://www.donut.ai/
 
 Applicable for groups over 30, highly recommended after 50.
 
@@ -28,9 +28,3 @@ Applicable for groups of 15 and more, sooner if you don’t have someone around 
 
 ## \#Selfies
 Remembering that people have faces also helps us to remember that they are human. Having a selfies channel in chat reminds folk it’s ok (encouraged, even!) to post pictures of themselves, which lets us see glimpses of their lives.
-
-## Discretionary kindness budget
-Everyone has a small, noncumulative budget to do nice things for other Trussels. We’ve sent each other stickers, coffee cups, and yarn. This helps with bonding of a distributed team in a direct way.
-
-
-You can also read more in [our blog post on how to be inclusive of a distributed team](https://truss.works/blog/2018/12/5/upping-our-distributed-practices).
