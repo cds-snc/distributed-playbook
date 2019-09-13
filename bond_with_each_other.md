@@ -16,7 +16,7 @@ Whether it’s crafts, a book or movie club, or playing games together, having a
 
 Applicable to groups of 50 and above - when you will have critical mass for interest. Ok to do before, but with less frequency.
 
-## \#Donut-Meet-up
+## \#Donut-meet-up
 A certain set of people are often able to make it to BHT or to a topic-based socializing event, and some folk see each other often because they’re on the same project or committee. To introduce some serendipity into the mix, we also have an opt-in channel that randomly pairs two (or three) Trussels together every other week. The CDSers then schedule a time together and meet to talk. We use https://www.donut.ai/
 
 Applicable for groups over 30, highly recommended after 50.
